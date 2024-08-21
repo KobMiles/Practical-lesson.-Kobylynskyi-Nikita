@@ -13,7 +13,7 @@ namespace _2024_PracLesson
                 {
                     new Citrus("Orange", "Orange", 53.2),
                     new Citrus("Lemon", "Yellow", 29.1),
-                    new Citrus("Grapefruit", "Pink", double.Parse(Console.ReadLine())),
+                    new Citrus("Grapefruit", "Pink", 31.5),
                     new Fruit("Apple", "Red"),
                     new Fruit("Banana", "Yellow")
                 };
